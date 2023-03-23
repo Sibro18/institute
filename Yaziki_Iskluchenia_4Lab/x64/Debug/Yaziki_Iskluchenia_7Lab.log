@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\PROG\Yaziki_Iskluchenia_7Lab\Source.cpp(78,23): warning C4101: ex: неиспользованная локальная переменная
+D:\PROG\Yaziki_Iskluchenia_7Lab\Source.cpp(49): warning C4715: vvodA: значение возвращается не при всех путях выполнения
+D:\PROG\Yaziki_Iskluchenia_7Lab\Source.cpp(30): warning C4715: vvodB: значение возвращается не при всех путях выполнения
+  Yaziki_Iskluchenia_7Lab.vcxproj -> D:\PROG\Yaziki_Iskluchenia_7Lab\x64\Debug\Yaziki_Iskluchenia_7Lab.exe

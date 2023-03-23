@@ -1,0 +1,4 @@
+﻿  Source.cpp
+E:\Lab_Work_2_Yaziki\Source.cpp(11,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  LINK : не найден или не выполнена сборка E:\Lab_Work_2_Yaziki\x64\Debug\Lab_Work_2_Yaziki.exe при последней инкрементной компоновке; выполняется полная компоновка
+  Lab_Work_2_Yaziki.vcxproj -> E:\Lab_Work_2_Yaziki\x64\Debug\Lab_Work_2_Yaziki.exe

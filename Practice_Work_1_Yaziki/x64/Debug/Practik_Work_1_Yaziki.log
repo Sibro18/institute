@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\PROG\Practik_Work_1_Yaziki\Source.cpp(12,26): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Practik_Work_1_Yaziki.vcxproj -> D:\PROG\Practik_Work_1_Yaziki\x64\Debug\Practice_Work_1_Yaziki.exe
