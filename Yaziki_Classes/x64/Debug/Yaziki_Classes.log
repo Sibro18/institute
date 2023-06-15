@@ -1,0 +1,8 @@
+﻿  Source.cpp
+D:\PROG\Yaziki_Classes\Source.cpp(173,21): warning C4101: ex: неиспользованная локальная переменная
+D:\PROG\Yaziki_Classes\Source.cpp(209,20): warning C4101: ex: неиспользованная локальная переменная
+D:\PROG\Yaziki_Classes\Source.cpp(274,20): warning C4101: ex: неиспользованная локальная переменная
+D:\PROG\Yaziki_Classes\Source.cpp(400,20): warning C4101: ex: неиспользованная локальная переменная
+D:\PROG\Yaziki_Classes\Source.cpp(476,20): warning C4101: ex: неиспользованная локальная переменная
+D:\PROG\Yaziki_Classes\Source.cpp(54): warning C4715: VerifyOnValue: значение возвращается не при всех путях выполнения
+  Yaziki_Classes.vcxproj -> D:\PROG\Yaziki_Classes\x64\Debug\Yaziki_Classes.exe
