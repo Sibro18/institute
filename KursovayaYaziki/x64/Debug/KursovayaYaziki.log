@@ -1,0 +1,44 @@
+﻿  AddEdge.cpp
+  FormForK.cpp
+  MyForm.cpp
+C:\Users\Администратор\Desktop\KursovayaYaziki\MyForm.cpp(13,32): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+C:\Users\Администратор\Desktop\KursovayaYaziki\MyForm.cpp(161,26): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Администратор\Desktop\KursovayaYaziki\MyForm.cpp(176,15): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\Администратор\Desktop\KursovayaYaziki\MyForm.cpp(177,15): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\Администратор\Desktop\KursovayaYaziki\MyForm.cpp(186,78): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Администратор\Desktop\KursovayaYaziki\MyForm.cpp(186,65): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Администратор\Desktop\KursovayaYaziki\MyForm.cpp(243,79): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Администратор\Desktop\KursovayaYaziki\MyForm.cpp(243,66): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Администратор\Desktop\KursovayaYaziki\MyForm.cpp(254,78): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Администратор\Desktop\KursovayaYaziki\MyForm.cpp(254,65): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Администратор\Desktop\KursovayaYaziki\MyForm.cpp(273,78): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Администратор\Desktop\KursovayaYaziki\MyForm.cpp(273,65): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Администратор\Desktop\KursovayaYaziki\MyForm.cpp(292,26): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Администратор\Desktop\KursovayaYaziki\MyForm.cpp(336,27): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Администратор\Desktop\KursovayaYaziki\MyForm.cpp(441,27): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Администратор\Desktop\KursovayaYaziki\MyForm.cpp(469,15): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Администратор\Desktop\KursovayaYaziki\MyForm.cpp(470,11): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Администратор\Desktop\KursovayaYaziki\MyForm.cpp(471,11): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Администратор\Desktop\KursovayaYaziki\MyForm.cpp(501,8): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Администратор\Desktop\KursovayaYaziki\MyForm.cpp(508,16): warning C4244: инициализация: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\Администратор\Desktop\KursovayaYaziki\MyForm.cpp(508,16): warning C4244:         with
+C:\Users\Администратор\Desktop\KursovayaYaziki\MyForm.cpp(508,16): warning C4244:         [
+C:\Users\Администратор\Desktop\KursovayaYaziki\MyForm.cpp(508,16): warning C4244:             _Ty=double
+C:\Users\Администратор\Desktop\KursovayaYaziki\MyForm.cpp(508,16): warning C4244:         ]
+C:\Users\Администратор\Desktop\KursovayaYaziki\MyForm.cpp(541,8): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Администратор\Desktop\KursovayaYaziki\MyForm.cpp(563,15): warning C4244: инициализация: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\Администратор\Desktop\KursovayaYaziki\MyForm.cpp(563,15): warning C4244:         with
+C:\Users\Администратор\Desktop\KursovayaYaziki\MyForm.cpp(563,15): warning C4244:         [
+C:\Users\Администратор\Desktop\KursovayaYaziki\MyForm.cpp(563,15): warning C4244:             _Ty=double
+C:\Users\Администратор\Desktop\KursovayaYaziki\MyForm.cpp(563,15): warning C4244:         ]
+C:\Users\Администратор\Desktop\KursovayaYaziki\MyForm.cpp(616,15): warning C4244: инициализация: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\Администратор\Desktop\KursovayaYaziki\MyForm.cpp(616,15): warning C4244:         with
+C:\Users\Администратор\Desktop\KursovayaYaziki\MyForm.cpp(616,15): warning C4244:         [
+C:\Users\Администратор\Desktop\KursovayaYaziki\MyForm.cpp(616,15): warning C4244:             _Ty=double
+C:\Users\Администратор\Desktop\KursovayaYaziki\MyForm.cpp(616,15): warning C4244:         ]
+C:\Users\Администратор\Desktop\KursovayaYaziki\MyForm.cpp(623,21): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+  AddEdge.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+MyForm.obj : warning LNK4258: директива "/ENTRY:mainCRTStartup" несовместима с параметром "/ENTRY:main"; будет пропущена
+  KursovayaYaziki.vcxproj -> C:\Users\Администратор\Desktop\KursovayaYaziki\x64\Debug\KursovayaYaziki.exe
